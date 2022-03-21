@@ -1,0 +1,238 @@
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("true")
+aes_nohw.c
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("true")
+montgomery.c
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("true")
+montgomery_inv.c
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("true")
+limbs.c
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("true")
+mem.c
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("true")
+poly1305.c
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("true")
+crypto.c
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("true")
+curve25519.c
+C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\ring-0.16.20\crypto\curve25519\./curve25519_tables.h(1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\ring-0.16.20\crypto\curve25519\../../third_party/fiat/curve25519_32.h(1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\ring-0.16.20\crypto\curve25519\../../third_party/fiat/curve25519_32.h(635): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("true")
+ecp_nistz.c
+C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\ring-0.16.20\crypto\fipsmodule\ec\ecp_nistz.h(1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("true")
+ecp_nistz256.c
+C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\ring-0.16.20\crypto\fipsmodule\ec\ecp_nistz.h(1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("true")
+gfp_p256.c
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("true")
+gfp_p384.c
+C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\ring-0.16.20\crypto\fipsmodule\ec\ecp_nistz.h(1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("true")
+cpu-intel.c
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("true")
+poly1305_vec.c
+running: "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\lib.exe" "-out:G:\\rebornsimulate\\backend\\target\\debug\\build\\ring-fee5132e0ce3e68d\\out\\libring-core.a" "-nologo" "C:\\Users\\Qiao\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.16.20\\pregenerated\\aesni-x86_64-nasm.obj" "C:\\Users\\Qiao\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.16.20\\pregenerated\\vpaes-x86_64-nasm.obj" "C:\\Users\\Qiao\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.16.20\\pregenerated\\x86_64-mont-nasm.obj" "C:\\Users\\Qiao\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.16.20\\pregenerated\\x86_64-mont5-nasm.obj" "C:\\Users\\Qiao\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.16.20\\pregenerated\\chacha-x86_64-nasm.obj" "C:\\Users\\Qiao\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.16.20\\pregenerated\\p256-x86_64-asm-nasm.obj" "C:\\Users\\Qiao\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.16.20\\pregenerated\\aesni-gcm-x86_64-nasm.obj" "C:\\Users\\Qiao\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.16.20\\pregenerated\\ghash-x86_64-nasm.obj" "C:\\Users\\Qiao\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.16.20\\pregenerated\\sha512-x86_64-nasm.obj" "C:\\Users\\Qiao\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.16.20\\pregenerated\\chacha20_poly1305_x86_64-nasm.obj" "C:\\Users\\Qiao\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.16.20\\pregenerated\\sha256-x86_64-nasm.obj" "G:\\rebornsimulate\\backend\\target\\debug\\build\\ring-fee5132e0ce3e68d\\out\\aes_nohw.obj" "G:\\rebornsimulate\\backend\\target\\debug\\build\\ring-fee5132e0ce3e68d\\out\\montgomery.obj" "G:\\rebornsimulate\\backend\\target\\debug\\build\\ring-fee5132e0ce3e68d\\out\\montgomery_inv.obj" "G:\\rebornsimulate\\backend\\target\\debug\\build\\ring-fee5132e0ce3e68d\\out\\limbs.obj" "G:\\rebornsimulate\\backend\\target\\debug\\build\\ring-fee5132e0ce3e68d\\out\\mem.obj" "G:\\rebornsimulate\\backend\\target\\debug\\build\\ring-fee5132e0ce3e68d\\out\\poly1305.obj" "G:\\rebornsimulate\\backend\\target\\debug\\build\\ring-fee5132e0ce3e68d\\out\\crypto.obj" "G:\\rebornsimulate\\backend\\target\\debug\\build\\ring-fee5132e0ce3e68d\\out\\curve25519.obj" "G:\\rebornsimulate\\backend\\target\\debug\\build\\ring-fee5132e0ce3e68d\\out\\ecp_nistz.obj" "G:\\rebornsimulate\\backend\\target\\debug\\build\\ring-fee5132e0ce3e68d\\out\\ecp_nistz256.obj" "G:\\rebornsimulate\\backend\\target\\debug\\build\\ring-fee5132e0ce3e68d\\out\\gfp_p256.obj" "G:\\rebornsimulate\\backend\\target\\debug\\build\\ring-fee5132e0ce3e68d\\out\\gfp_p384.obj" "G:\\rebornsimulate\\backend\\target\\debug\\build\\ring-fee5132e0ce3e68d\\out\\cpu-intel.obj" "G:\\rebornsimulate\\backend\\target\\debug\\build\\ring-fee5132e0ce3e68d\\out\\poly1305_vec.obj"
+exit code: 0
+cargo:rustc-link-lib=static=ring-core
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("true")
+constant_time_test.c
+running: "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\lib.exe" "-out:G:\\rebornsimulate\\backend\\target\\debug\\build\\ring-fee5132e0ce3e68d\\out\\libring-test.a" "-nologo" "G:\\rebornsimulate\\backend\\target\\debug\\build\\ring-fee5132e0ce3e68d\\out\\constant_time_test.obj"
+exit code: 0
+cargo:rustc-link-lib=static=ring-test
+cargo:rustc-link-search=native=G:\rebornsimulate\backend\target\debug\build\ring-fee5132e0ce3e68d\out

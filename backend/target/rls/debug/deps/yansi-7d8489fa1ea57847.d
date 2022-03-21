@@ -1,0 +1,13 @@
+g:\rebornsimulate\backend\target\rls\debug\deps\yansi-7d8489fa1ea57847.rmeta: C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\lib.rs C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\docify.rs C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\macros.rs C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\windows.rs C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\paint.rs C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\style.rs C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\color.rs
+
+g:\rebornsimulate\backend\target\rls\debug\deps\libyansi-7d8489fa1ea57847.rlib: C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\lib.rs C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\docify.rs C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\macros.rs C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\windows.rs C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\paint.rs C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\style.rs C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\color.rs
+
+g:\rebornsimulate\backend\target\rls\debug\deps\yansi-7d8489fa1ea57847.d: C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\lib.rs C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\docify.rs C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\macros.rs C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\windows.rs C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\paint.rs C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\style.rs C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\color.rs
+
+C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\lib.rs:
+C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\docify.rs:
+C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\macros.rs:
+C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\windows.rs:
+C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\paint.rs:
+C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\style.rs:
+C:\Users\Qiao\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\color.rs:

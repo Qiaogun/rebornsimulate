@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=g:\rebornsimulate\backend\target\rls\debug\build\typenum-2c46302e0e096958\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=g:\rebornsimulate\backend\target\rls\debug\build\typenum-2c46302e0e096958\out\op.rs

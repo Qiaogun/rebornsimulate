@@ -1,0 +1,1598 @@
+[
+  {
+    "2020": 106766,
+    "": 0,
+    "Country Name": "Aruba",
+    "Value": 1249780.36
+  },
+  {
+    "2020": 677243299,
+    "": 1,
+    "Country Name": "Africa Eastern and Southern",
+    "Value": 22105787336.899017
+  },
+  {
+    "2020": 38928341,
+    "": 2,
+    "Country Name": "Afghanistan",
+    "Value": 1209803956.114
+  },
+  {
+    "2020": 458803476,
+    "": 3,
+    "Country Name": "Africa Western and Central",
+    "Value": 16405470408.973993
+  },
+  {
+    "2020": 32866268,
+    "": 4,
+    "Country Name": "Angola",
+    "Value": 1280395429.368
+  },
+  {
+    "2020": 2837743,
+    "": 5,
+    "Country Name": "Albania",
+    "Value": 33165699.419999998
+  },
+  {
+    "2020": 77265,
+    "": 6,
+    "Country Name": "Andorra",
+    "Value": 540022
+  },
+  {
+    "2020": 436080728,
+    "": 7,
+    "Country Name": "Arab World",
+    "Value": 10547269145.300997
+  },
+  {
+    "2020": 9890400,
+    "": 8,
+    "Country Name": "United Arab Emirates",
+    "Value": 99884087.29800001
+  },
+  {
+    "2020": 45376763,
+    "": 9,
+    "Country Name": "Argentina",
+    "Value": 756453339.096
+  },
+  {
+    "2020": 2963234,
+    "": 10,
+    "Country Name": "Armenia",
+    "Value": 40361156.288
+  },
+  {
+    "2020": 55197,
+    "": 11,
+    "Country Name": "American Samoa",
+    "Value": 4074340
+  },
+  {
+    "2020": 97928,
+    "": 12,
+    "Country Name": "Antigua and Barbuda",
+    "Value": 1467116.305
+  },
+  {
+    "2020": 25687041,
+    "": 13,
+    "Country Name": "Australia",
+    "Value": 306925514.5
+  },
+  {
+    "2020": 8917205,
+    "": 14,
+    "Country Name": "Austria",
+    "Value": 85247232
+  },
+  {
+    "2020": 10093121,
+    "": 15,
+    "Country Name": "Azerbaijan",
+    "Value": 141342390.29999998
+  },
+  {
+    "2020": 11890781,
+    "": 16,
+    "Country Name": "Burundi",
+    "Value": 442508953.52900004
+  },
+  {
+    "2020": 11555997,
+    "": 17,
+    "Country Name": "Belgium",
+    "Value": 116038698
+  },
+  {
+    "2020": 12123198,
+    "": 18,
+    "Country Name": "Benin",
+    "Value": 422847041.48100007
+  },
+  {
+    "2020": 20903278,
+    "": 19,
+    "Country Name": "Burkina Faso",
+    "Value": 761096757.4990001
+  },
+  {
+    "2020": 164689383,
+    "": 20,
+    "Country Name": "Bangladesh",
+    "Value": 2913309019.1639996
+  },
+  {
+    "2020": 6934015,
+    "": 21,
+    "Country Name": "Bulgaria",
+    "Value": 61386696.800000004
+  },
+  {
+    "2020": 1701583,
+    "": 22,
+    "Country Name": "Bahrain",
+    "Value": 22355936.008
+  },
+  {
+    "2020": 393248,
+    "": 23,
+    "Country Name": "Bahamas, The",
+    "Value": 5406844.652
+  },
+  {
+    "2020": 3280815,
+    "": 24,
+    "Country Name": "Bosnia and Herzegovina",
+    "Value": 26203322.123999998
+  },
+  {
+    "2020": 9379952,
+    "": 25,
+    "Country Name": "Belarus",
+    "Value": 87603749.4
+  },
+  {
+    "2020": 397621,
+    "": 26,
+    "Country Name": "Belize",
+    "Value": 8006099.010000001
+  },
+  {
+    "2020": 63903,
+    "": 27,
+    "Country Name": "Bermuda",
+    "Value": 530477.9
+  },
+  {
+    "2020": 11673029,
+    "": 28,
+    "Country Name": "Bolivia",
+    "Value": 247013603.40999997
+  },
+  {
+    "2020": 212559409,
+    "": 29,
+    "Country Name": "Brazil",
+    "Value": 2892011558.857
+  },
+  {
+    "2020": 287371,
+    "": 30,
+    "Country Name": "Barbados",
+    "Value": 3048450.041
+  },
+  {
+    "2020": 437483,
+    "": 31,
+    "Country Name": "Brunei Darussalam",
+    "Value": 6265026.864
+  },
+  {
+    "2020": 771612,
+    "": 32,
+    "Country Name": "Bhutan",
+    "Value": 12981755.128
+  },
+  {
+    "2020": 2351625,
+    "": 33,
+    "Country Name": "Botswana",
+    "Value": 55827938.502000004
+  },
+  {
+    "2020": 4829764,
+    "": 34,
+    "Country Name": "Central African Republic",
+    "Value": 166508331.11
+  },
+  {
+    "2020": 38005238,
+    "": 35,
+    "Country Name": "Canada",
+    "Value": 372174501.6
+  },
+  {
+    "2020": 102253057,
+    "": 36,
+    "Country Name": "Central Europe and the Baltics",
+    "Value": 1001167587.2999997
+  },
+  {
+    "2020": 8636896,
+    "": 37,
+    "Country Name": "Switzerland",
+    "Value": 85752800
+  },
+  {
+    "2020": 173859,
+    "": 38,
+    "Country Name": "Channel Islands",
+    "Value": 1690082.104
+  },
+  {
+    "2020": 19116209,
+    "": 39,
+    "Country Name": "Chile",
+    "Value": 230968450.545
+  },
+  {
+    "2020": 1410929362,
+    "": 40,
+    "Country Name": "China",
+    "Value": 14781322500
+  },
+  {
+    "2020": 26378275,
+    "": 41,
+    "Country Name": "Cote d'Ivoire",
+    "Value": 912011871.056
+  },
+  {
+    "2020": 26545864,
+    "": 42,
+    "Country Name": "Cameroon",
+    "Value": 902853018.8169999
+  },
+  {
+    "2020": 89561404,
+    "": 43,
+    "Country Name": "Congo, Dem. Rep.",
+    "Value": 3527081892.952
+  },
+  {
+    "2020": 5518092,
+    "": 44,
+    "Country Name": "Congo, Rep.",
+    "Value": 174312188.088
+  },
+  {
+    "2020": 50882884,
+    "": 45,
+    "Country Name": "Colombia",
+    "Value": 737724537.165
+  },
+  {
+    "2020": 869595,
+    "": 46,
+    "Country Name": "Comoros",
+    "Value": 26723933.637
+  },
+  {
+    "2020": 555988,
+    "": 47,
+    "Country Name": "Cabo Verde",
+    "Value": 10482330.096
+  },
+  {
+    "2020": 5094114,
+    "": 48,
+    "Country Name": "Costa Rica",
+    "Value": 69096062.529
+  },
+  {
+    "2020": 7442291,
+    "": 49,
+    "Country Name": "Caribbean small states",
+    "Value": 115936025.26788229
+  },
+  {
+    "2020": 11326616,
+    "": 50,
+    "Country Name": "Cuba",
+    "Value": 112904167.608
+  },
+  {
+    "2020": 155014,
+    "": 51,
+    "Country Name": "Curacao",
+    "Value": 1590154.0999999999
+  },
+  {
+    "2020": 65720,
+    "": 52,
+    "Country Name": "Cayman Islands",
+    "Value": 636490.4
+  },
+  {
+    "2020": 1207361,
+    "": 53,
+    "Country Name": "Cyprus",
+    "Value": 12273397.76
+  },
+  {
+    "2020": 10698896,
+    "": 54,
+    "Country Name": "Czech Republic",
+    "Value": 112054635
+  },
+  {
+    "2020": 83240525,
+    "": 55,
+    "Country Name": "Germany",
+    "Value": 781073842.8000001
+  },
+  {
+    "2020": 988002,
+    "": 56,
+    "Country Name": "Djibouti",
+    "Value": 20442749.886
+  },
+  {
+    "2020": 71991,
+    "": 57,
+    "Country Name": "Dominica",
+    "Value": 4074340
+  },
+  {
+    "2020": 5831404,
+    "": 58,
+    "Country Name": "Denmark",
+    "Value": 61051431
+  },
+  {
+    "2020": 10847904,
+    "": 59,
+    "Country Name": "Dominican Republic",
+    "Value": 206112801.701
+  },
+  {
+    "2020": 43851043,
+    "": 60,
+    "Country Name": "Algeria",
+    "Value": 1015320172.4819999
+  },
+  {
+    "2020": 2113820753,
+    "": 61,
+    "Country Name": "East Asia & Pacific (excluding high income)",
+    "Value": 26826136760.554234
+  },
+  {
+    "2020": 3332105361,
+    "": 62,
+    "Country Name": "Early-demographic dividend",
+    "Value": 65555596499.44499
+  },
+  {
+    "2020": 2360855079,
+    "": 63,
+    "Country Name": "East Asia & Pacific",
+    "Value": 28686721936.154964
+  },
+  {
+    "2020": 420211696,
+    "": 64,
+    "Country Name": "Europe & Central Asia (excluding high income)",
+    "Value": 5673897332.563989
+  },
+  {
+    "2020": 923452178,
+    "": 65,
+    "Country Name": "Europe & Central Asia",
+    "Value": 10442976829.021841
+  },
+  {
+    "2020": 17643060,
+    "": 66,
+    "Country Name": "Ecuador",
+    "Value": 338091365.22
+  },
+  {
+    "2020": 102334403,
+    "": 67,
+    "Country Name": "Egypt, Arab Rep.",
+    "Value": 2580776657.8079996
+  },
+  {
+    "2020": 342949773,
+    "": 68,
+    "Country Name": "Euro area",
+    "Value": 3115381122.9599996
+  },
+  {
+    "2020": 3213969,
+    "": 69,
+    "Country Name": "Eritrea",
+    "Value": 4060209
+  },
+  {
+    "2020": 47351567,
+    "": 70,
+    "Country Name": "Spain",
+    "Value": 358214759.59999996
+  },
+  {
+    "2020": 1331057,
+    "": 71,
+    "Country Name": "Estonia",
+    "Value": 14065118.799999999
+  },
+  {
+    "2020": 114963583,
+    "": 72,
+    "Country Name": "Ethiopia",
+    "Value": 3574863076.392
+  },
+  {
+    "2020": 447801418,
+    "": 73,
+    "Country Name": "European Union",
+    "Value": 4154802145.9599986
+  },
+  {
+    "2020": 929989551,
+    "": 74,
+    "Country Name": "Fragile and conflict affected situations",
+    "Value": 29959594940.18831
+  },
+  {
+    "2020": 5530719,
+    "": 75,
+    "Country Name": "Finland",
+    "Value": 45829329.800000004
+  },
+  {
+    "2020": 896444,
+    "": 76,
+    "Country Name": "Fiji",
+    "Value": 18648117.07
+  },
+  {
+    "2020": 67391582,
+    "": 77,
+    "Country Name": "France",
+    "Value": 753187971.1999999
+  },
+  {
+    "2020": 48865,
+    "": 78,
+    "Country Name": "Faroe Islands",
+    "Value": 642536.4
+  },
+  {
+    "2020": 115021,
+    "": 79,
+    "Country Name": "Micronesia, Fed. Sts.",
+    "Value": 2584875.432
+  },
+  {
+    "2020": 2225728,
+    "": 80,
+    "Country Name": "Gabon",
+    "Value": 67280395.504
+  },
+  {
+    "2020": 67215293,
+    "": 81,
+    "Country Name": "United Kingdom",
+    "Value": 715148698.9
+  },
+  {
+    "2020": 3714000,
+    "": 82,
+    "Country Name": "Georgia",
+    "Value": 49106125.199999996
+  },
+  {
+    "2020": 31072945,
+    "": 83,
+    "Country Name": "Ghana",
+    "Value": 881874539.136
+  },
+  {
+    "2020": 33691,
+    "": 84,
+    "Country Name": "Gibraltar",
+    "Value": 464935.8
+  },
+  {
+    "2020": 13132792,
+    "": 85,
+    "Country Name": "Guinea",
+    "Value": 459317862.39000005
+  },
+  {
+    "2020": 2416664,
+    "": 86,
+    "Country Name": "Gambia, The",
+    "Value": 89383829.808
+  },
+  {
+    "2020": 1967998,
+    "": 87,
+    "Country Name": "Guinea-Bissau",
+    "Value": 66384970.60299999
+  },
+  {
+    "2020": 1402985,
+    "": 88,
+    "Country Name": "Equatorial Guinea",
+    "Value": 44453157.906
+  },
+  {
+    "2020": 10715549,
+    "": 89,
+    "Country Name": "Greece",
+    "Value": 83628339.6
+  },
+  {
+    "2020": 112519,
+    "": 90,
+    "Country Name": "Grenada",
+    "Value": 1814208.396
+  },
+  {
+    "2020": 56367,
+    "": 91,
+    "Country Name": "Greenland",
+    "Value": 848997.5
+  },
+  {
+    "2020": 16858333,
+    "": 92,
+    "Country Name": "Guatemala",
+    "Value": 401983469.46000004
+  },
+  {
+    "2020": 168783,
+    "": 93,
+    "Country Name": "Guam",
+    "Value": 2753675.7
+  },
+  {
+    "2020": 786559,
+    "": 94,
+    "Country Name": "Guyana",
+    "Value": 15438671.325
+  },
+  {
+    "2020": 1214930230,
+    "": 95,
+    "Country Name": "High income",
+    "Value": 12155785849.411892
+  },
+  {
+    "2020": 7481800,
+    "": 96,
+    "Country Name": "Hong Kong SAR, China",
+    "Value": 52551800
+  },
+  {
+    "2020": 9904608,
+    "": 97,
+    "Country Name": "Honduras",
+    "Value": 207952855.755
+  },
+  {
+    "2020": 823480038,
+    "": 98,
+    "Country Name": "Heavily indebted poor countries (HIPC)",
+    "Value": 27953871259.86099
+  },
+  {
+    "2020": 4047200,
+    "": 99,
+    "Country Name": "Croatia",
+    "Value": 36180751.7
+  },
+  {
+    "2020": 11402533,
+    "": 100,
+    "Country Name": "Haiti",
+    "Value": 269852109.761
+  },
+  {
+    "2020": 9749763,
+    "": 101,
+    "Country Name": "Hungary",
+    "Value": 92825839.5
+  },
+  {
+    "2020": 4862388283,
+    "": 102,
+    "Country Name": "IBRD only",
+    "Value": 73860125333.59782
+  },
+  {
+    "2020": 6570991956,
+    "": 103,
+    "Country Name": "IDA & IBRD total",
+    "Value": 125386565117.25397
+  },
+  {
+    "2020": 1708603673,
+    "": 104,
+    "Country Name": "IDA total",
+    "Value": 51527827703.13216
+  },
+  {
+    "2020": 574159138,
+    "": 105,
+    "Country Name": "IDA blend",
+    "Value": 17681176641.22143
+  },
+  {
+    "2020": 273523621,
+    "": 106,
+    "Country Name": "Indonesia",
+    "Value": 4802521311.981999
+  },
+  {
+    "2020": 1134444535,
+    "": 107,
+    "Country Name": "IDA only",
+    "Value": 33846674299.534004
+  },
+  {
+    "2020": 85032,
+    "": 108,
+    "Country Name": "Isle of Man",
+    "Value": 4054140
+  },
+  {
+    "2020": 1380004385,
+    "": 109,
+    "Country Name": "India",
+    "Value": 24109074886.864
+  },
+  {
+    "2020": 0,
+    "": 110,
+    "Country Name": "Not classified",
+    "Value": 0
+  },
+  {
+    "2020": 4994724,
+    "": 111,
+    "Country Name": "Ireland",
+    "Value": 59705514
+  },
+  {
+    "2020": 83992953,
+    "": 112,
+    "Country Name": "Iran, Islamic Rep.",
+    "Value": 1527273909.0600002
+  },
+  {
+    "2020": 40222503,
+    "": 113,
+    "Country Name": "Iraq",
+    "Value": 1122530334.684
+  },
+  {
+    "2020": 366425,
+    "": 114,
+    "Country Name": "Iceland",
+    "Value": 4434924.9
+  },
+  {
+    "2020": 9216900,
+    "": 115,
+    "Country Name": "Israel",
+    "Value": 181985400
+  },
+  {
+    "2020": 59554023,
+    "": 116,
+    "Country Name": "Italy",
+    "Value": 418103567
+  },
+  {
+    "2020": 2961161,
+    "": 117,
+    "Country Name": "Jamaica",
+    "Value": 46898242.239
+  },
+  {
+    "2020": 10203140,
+    "": 118,
+    "Country Name": "Jordan",
+    "Value": 216954146.469
+  },
+  {
+    "2020": 125836021,
+    "": 119,
+    "Country Name": "Japan",
+    "Value": 883854517
+  },
+  {
+    "2020": 18754440,
+    "": 120,
+    "Country Name": "Kazakhstan",
+    "Value": 402302114.29
+  },
+  {
+    "2020": 53771300,
+    "": 121,
+    "Country Name": "Kenya",
+    "Value": 1487738118.166
+  },
+  {
+    "2020": 6591600,
+    "": 122,
+    "Country Name": "Kyrgyz Republic",
+    "Value": 173671780
+  },
+  {
+    "2020": 16718971,
+    "": 123,
+    "Country Name": "Cambodia",
+    "Value": 363033654.84
+  },
+  {
+    "2020": 119446,
+    "": 124,
+    "Country Name": "Kiribati",
+    "Value": 3228692.424
+  },
+  {
+    "2020": 53192,
+    "": 125,
+    "Country Name": "St. Kitts and Nevis",
+    "Value": 4068280
+  },
+  {
+    "2020": 51780579,
+    "": 126,
+    "Country Name": "Korea, Rep.",
+    "Value": 305083678.20000005
+  },
+  {
+    "2020": 4270563,
+    "": 127,
+    "Country Name": "Kuwait",
+    "Value": 55747977.327
+  },
+  {
+    "2020": 595242966,
+    "": 128,
+    "Country Name": "Latin America & Caribbean (excluding high income)",
+    "Value": 9582362483.043074
+  },
+  {
+    "2020": 7275556,
+    "": 129,
+    "Country Name": "Lao PDR",
+    "Value": 165736314.352
+  },
+  {
+    "2020": 6825442,
+    "": 130,
+    "Country Name": "Lebanon",
+    "Value": 119131655.293
+  },
+  {
+    "2020": 5057677,
+    "": 131,
+    "Country Name": "Liberia",
+    "Value": 161387943.938
+  },
+  {
+    "2020": 6871287,
+    "": 132,
+    "Country Name": "Libya",
+    "Value": 124027389.9
+  },
+  {
+    "2020": 183629,
+    "": 133,
+    "Country Name": "St. Lucia",
+    "Value": 2164110.005
+  },
+  {
+    "2020": 652276325,
+    "": 134,
+    "Country Name": "Latin America & Caribbean",
+    "Value": 10417649035.37388
+  },
+  {
+    "2020": 1057438163,
+    "": 135,
+    "Country Name": "Least developed countries: UN classification",
+    "Value": 32118566703.435658
+  },
+  {
+    "2020": 665149035,
+    "": 136,
+    "Country Name": "Low income",
+    "Value": 22309747229.546005
+  },
+  {
+    "2020": 38137,
+    "": 137,
+    "Country Name": "Liechtenstein",
+    "Value": 349784
+  },
+  {
+    "2020": 21919000,
+    "": 138,
+    "Country Name": "Sri Lanka",
+    "Value": 338905832
+  },
+  {
+    "2020": 3330652547,
+    "": 139,
+    "Country Name": "Lower middle income",
+    "Value": 70758847469.69989
+  },
+  {
+    "2020": 6518253973,
+    "": 140,
+    "Country Name": "Low & middle income",
+    "Value": 124776998527.64429
+  },
+  {
+    "2020": 2142252,
+    "": 141,
+    "Country Name": "Lesotho",
+    "Value": 56138927.805
+  },
+  {
+    "2020": 2316679176,
+    "": 142,
+    "Country Name": "Late-demographic dividend",
+    "Value": 26888062121.14699
+  },
+  {
+    "2020": 2794700,
+    "": 143,
+    "Country Name": "Lithuania",
+    "Value": 27382542.6
+  },
+  {
+    "2020": 632275,
+    "": 144,
+    "Country Name": "Luxembourg",
+    "Value": 6200010
+  },
+  {
+    "2020": 1901548,
+    "": 145,
+    "Country Name": "Latvia",
+    "Value": 18755455.6
+  },
+  {
+    "2020": 649342,
+    "": 146,
+    "Country Name": "Macao SAR, China",
+    "Value": 6977018.724
+  },
+  {
+    "2020": 38659,
+    "": 147,
+    "Country Name": "St. Martin (French part)",
+    "Value": 551029
+  },
+  {
+    "2020": 36910558,
+    "": 148,
+    "Country Name": "Morocco",
+    "Value": 674727671
+  },
+  {
+    "2020": 39244,
+    "": 149,
+    "Country Name": "Monaco",
+    "Value": 4076360
+  },
+  {
+    "2020": 2620495,
+    "": 150,
+    "Country Name": "Moldova",
+    "Value": 26463191.82
+  },
+  {
+    "2020": 27691019,
+    "": 151,
+    "Country Name": "Madagascar",
+    "Value": 874021268.848
+  },
+  {
+    "2020": 540542,
+    "": 152,
+    "Country Name": "Maldives",
+    "Value": 7212519.888
+  },
+  {
+    "2020": 464554123,
+    "": 153,
+    "Country Name": "Middle East & North Africa",
+    "Value": 10078838360.275991
+  },
+  {
+    "2020": 128932753,
+    "": 154,
+    "Country Name": "Mexico",
+    "Value": 2206673925.113
+  },
+  {
+    "2020": 59194,
+    "": 155,
+    "Country Name": "Marshall Islands",
+    "Value": 4062220
+  },
+  {
+    "2020": 5853104938,
+    "": 156,
+    "Country Name": "Middle income",
+    "Value": 102466918443.29318
+  },
+  {
+    "2020": 2072531,
+    "": 157,
+    "Country Name": "North Macedonia",
+    "Value": 22123021.182
+  },
+  {
+    "2020": 20250834,
+    "": 158,
+    "Country Name": "Mali",
+    "Value": 806666973.805
+  },
+  {
+    "2020": 525285,
+    "": 159,
+    "Country Name": "Malta",
+    "Value": 4334933.2
+  },
+  {
+    "2020": 54409794,
+    "": 160,
+    "Country Name": "Myanmar",
+    "Value": 940228206.5339999
+  },
+  {
+    "2020": 396147843,
+    "": 161,
+    "Country Name": "Middle East & North Africa (excluding high income)",
+    "Value": 9003106267.099012
+  },
+  {
+    "2020": 621306,
+    "": 162,
+    "Country Name": "Montenegro",
+    "Value": 7259688.788
+  },
+  {
+    "2020": 3278292,
+    "": 163,
+    "Country Name": "Mongolia",
+    "Value": 75343102.926
+  },
+  {
+    "2020": 57557,
+    "": 164,
+    "Country Name": "Northern Mariana Islands",
+    "Value": 4068280
+  },
+  {
+    "2020": 31255435,
+    "": 165,
+    "Country Name": "Mozambique",
+    "Value": 1128584354.138
+  },
+  {
+    "2020": 4649660,
+    "": 166,
+    "Country Name": "Mauritania",
+    "Value": 150533766.87600002
+  },
+  {
+    "2020": 1265740,
+    "": 167,
+    "Country Name": "Mauritius",
+    "Value": 12910252.2
+  },
+  {
+    "2020": 19129955,
+    "": 168,
+    "Country Name": "Malawi",
+    "Value": 628347703.77
+  },
+  {
+    "2020": 32365998,
+    "": 169,
+    "Country Name": "Malaysia",
+    "Value": 530622095.712
+  },
+  {
+    "2020": 367553264,
+    "": 170,
+    "Country Name": "North America",
+    "Value": 4115666443.700011
+  },
+  {
+    "2020": 2540916,
+    "": 171,
+    "Country Name": "Namibia",
+    "Value": 70225839.648
+  },
+  {
+    "2020": 271960,
+    "": 172,
+    "Country Name": "New Caledonia",
+    "Value": 3798200
+  },
+  {
+    "2020": 24206636,
+    "": 173,
+    "Country Name": "Niger",
+    "Value": 1063831283.003
+  },
+  {
+    "2020": 206139587,
+    "": 174,
+    "Country Name": "Nigeria",
+    "Value": 7525283077.938
+  },
+  {
+    "2020": 6624554,
+    "": 175,
+    "Country Name": "Nicaragua",
+    "Value": 132317343.145
+  },
+  {
+    "2020": 17441139,
+    "": 176,
+    "Country Name": "Netherlands",
+    "Value": 168245277.79999998
+  },
+  {
+    "2020": 5379475,
+    "": 177,
+    "Country Name": "Norway",
+    "Value": 54548539.199999996
+  },
+  {
+    "2020": 29136808,
+    "": 178,
+    "Country Name": "Nepal",
+    "Value": 560101422.27
+  },
+  {
+    "2020": 10834,
+    "": 179,
+    "Country Name": "Nauru",
+    "Value": 346688
+  },
+  {
+    "2020": 5084300,
+    "": 180,
+    "Country Name": "New Zealand",
+    "Value": 59552428.00000001
+  },
+  {
+    "2020": 1370858752,
+    "": 181,
+    "Country Name": "OECD members",
+    "Value": 15128230045.225986
+  },
+  {
+    "2020": 5106622,
+    "": 182,
+    "Country Name": "Oman",
+    "Value": 92102026.89600001
+  },
+  {
+    "2020": 31941374,
+    "": 183,
+    "Country Name": "Other small states",
+    "Value": 714126283.6150013
+  },
+  {
+    "2020": 220892331,
+    "": 184,
+    "Country Name": "Pakistan",
+    "Value": 6029394990.597
+  },
+  {
+    "2020": 4314768,
+    "": 185,
+    "Country Name": "Panama",
+    "Value": 79429660.19999999
+  },
+  {
+    "2020": 32971846,
+    "": 186,
+    "Country Name": "Peru",
+    "Value": 577255763.272
+  },
+  {
+    "2020": 109581085,
+    "": 187,
+    "Country Name": "Philippines",
+    "Value": 2180279799.252
+  },
+  {
+    "2020": 18092,
+    "": 188,
+    "Country Name": "Palau",
+    "Value": 201611.19999999998
+  },
+  {
+    "2020": 8947027,
+    "": 189,
+    "Country Name": "Papua New Guinea",
+    "Value": 235138556.36699998
+  },
+  {
+    "2020": 37950802,
+    "": 190,
+    "Country Name": "Poland",
+    "Value": 375858202.5
+  },
+  {
+    "2020": 970795671,
+    "": 191,
+    "Country Name": "Pre-demographic dividend",
+    "Value": 34104883980.66303
+  },
+  {
+    "2020": 3194034,
+    "": 192,
+    "Country Name": "Puerto Rico",
+    "Value": 20439641.6
+  },
+  {
+    "2020": 25778815,
+    "": 193,
+    "Country Name": "Korea, Dem. People's Rep.",
+    "Value": 355424955.984
+  },
+  {
+    "2020": 10305564,
+    "": 194,
+    "Country Name": "Portugal",
+    "Value": 86404609.2
+  },
+  {
+    "2020": 7132530,
+    "": 195,
+    "Country Name": "Paraguay",
+    "Value": 143295001.89900002
+  },
+  {
+    "2020": 4803269,
+    "": 196,
+    "Country Name": "West Bank and Gaza",
+    "Value": 134547932.40199998
+  },
+  {
+    "2020": 2528958,
+    "": 197,
+    "Country Name": "Pacific island small states",
+    "Value": 64167271.16043098
+  },
+  {
+    "2020": 1115104266,
+    "": 198,
+    "Country Name": "Post-demographic dividend",
+    "Value": 10657385510.301998
+  },
+  {
+    "2020": 280904,
+    "": 199,
+    "Country Name": "French Polynesia",
+    "Value": 4029244.695
+  },
+  {
+    "2020": 2881060,
+    "": 200,
+    "Country Name": "Qatar",
+    "Value": 26578986.335
+  },
+  {
+    "2020": 19286123,
+    "": 201,
+    "Country Name": "Romania",
+    "Value": 185967820.79999998
+  },
+  {
+    "2020": 144104080,
+    "": 202,
+    "Country Name": "Russian Federation",
+    "Value": 1415181357.8000002
+  },
+  {
+    "2020": 12952209,
+    "": 203,
+    "Country Name": "Rwanda",
+    "Value": 394579185.562
+  },
+  {
+    "2020": 1856882402,
+    "": 204,
+    "Country Name": "South Asia",
+    "Value": 35180784382.024994
+  },
+  {
+    "2020": 34813867,
+    "": 205,
+    "Country Name": "Saudi Arabia",
+    "Value": 592742746.113
+  },
+  {
+    "2020": 43849269,
+    "": 206,
+    "Country Name": "Sudan",
+    "Value": 1362574080.762
+  },
+  {
+    "2020": 16743930,
+    "": 207,
+    "Country Name": "Senegal",
+    "Value": 553294082.624
+  },
+  {
+    "2020": 5685807,
+    "": 208,
+    "Country Name": "Singapore",
+    "Value": 50191407.2
+  },
+  {
+    "2020": 686878,
+    "": 209,
+    "Country Name": "Solomon Islands",
+    "Value": 21404799.876
+  },
+  {
+    "2020": 7976985,
+    "": 210,
+    "Country Name": "Sierra Leone",
+    "Value": 256890432.95299998
+  },
+  {
+    "2020": 6486201,
+    "": 211,
+    "Country Name": "El Salvador",
+    "Value": 116512391.69999999
+  },
+  {
+    "2020": 33938,
+    "": 212,
+    "Country Name": "San Marino",
+    "Value": 226888.80000000002
+  },
+  {
+    "2020": 15893219,
+    "": 213,
+    "Country Name": "Somalia",
+    "Value": 642193246.01
+  },
+  {
+    "2020": 6908224,
+    "": 214,
+    "Country Name": "Serbia",
+    "Value": 64590685.50000001
+  },
+  {
+    "2020": 1135948313,
+    "": 215,
+    "Country Name": "Sub-Saharan Africa (excluding high income)",
+    "Value": 38509656695.87298
+  },
+  {
+    "2020": 11193729,
+    "": 216,
+    "Country Name": "South Sudan",
+    "Value": 383335436.442
+  },
+  {
+    "2020": 1136046775,
+    "": 217,
+    "Country Name": "Sub-Saharan Africa",
+    "Value": 38511257745.87295
+  },
+  {
+    "2020": 41912623,
+    "": 218,
+    "Country Name": "Small states",
+    "Value": 894650101.6486818
+  },
+  {
+    "2020": 219161,
+    "": 219,
+    "Country Name": "Sao Tome and Principe",
+    "Value": 6699175.296
+  },
+  {
+    "2020": 586634,
+    "": 220,
+    "Country Name": "Suriname",
+    "Value": 10636036.085
+  },
+  {
+    "2020": 5458827,
+    "": 221,
+    "Country Name": "Slovak Republic",
+    "Value": 57268543.5
+  },
+  {
+    "2020": 2100126,
+    "": 222,
+    "Country Name": "Slovenia",
+    "Value": 19421980.5
+  },
+  {
+    "2020": 10353442,
+    "": 223,
+    "Country Name": "Sweden",
+    "Value": 114095645.7
+  },
+  {
+    "2020": 1160164,
+    "": 224,
+    "Country Name": "Eswatini",
+    "Value": 29714830.173
+  },
+  {
+    "2020": 40812,
+    "": 225,
+    "Country Name": "Sint Maarten (Dutch part)",
+    "Value": 4074340
+  },
+  {
+    "2020": 98462,
+    "": 226,
+    "Country Name": "Seychelles",
+    "Value": 1601049.9999999998
+  },
+  {
+    "2020": 17500657,
+    "": 227,
+    "Country Name": "Syrian Arab Republic",
+    "Value": 396368465.03999996
+  },
+  {
+    "2020": 38718,
+    "": 228,
+    "Country Name": "Turks and Caicos Islands",
+    "Value": 545923.8
+  },
+  {
+    "2020": 16425859,
+    "": 229,
+    "Country Name": "Chad",
+    "Value": 664426838.53
+  },
+  {
+    "2020": 2088015667,
+    "": 230,
+    "Country Name": "East Asia & Pacific (IDA & IBRD countries)",
+    "Value": 26470344245.62169
+  },
+  {
+    "2020": 462209698,
+    "": 231,
+    "Country Name": "Europe & Central Asia (IDA & IBRD countries)",
+    "Value": 6085936286.763985
+  },
+  {
+    "2020": 8278737,
+    "": 232,
+    "Country Name": "Togo",
+    "Value": 264349715.813
+  },
+  {
+    "2020": 69799978,
+    "": 233,
+    "Country Name": "Thailand",
+    "Value": 707952907.6079999
+  },
+  {
+    "2020": 9537642,
+    "": 234,
+    "Country Name": "Tajikistan",
+    "Value": 279984888.874
+  },
+  {
+    "2020": 6031187,
+    "": 235,
+    "Country Name": "Turkmenistan",
+    "Value": 137060340.204
+  },
+  {
+    "2020": 636492840,
+    "": 236,
+    "Country Name": "Latin America & the Caribbean (IDA & IBRD countries)",
+    "Value": 10268775345.045488
+  },
+  {
+    "2020": 1318442,
+    "": 237,
+    "Country Name": "Timor-Leste",
+    "Value": 37867726.08
+  },
+  {
+    "2020": 391344574,
+    "": 238,
+    "Country Name": "Middle East & North Africa (IDA & IBRD countries)",
+    "Value": 8868558334.697002
+  },
+  {
+    "2020": 105697,
+    "": 239,
+    "Country Name": "Tonga",
+    "Value": 2508972.97
+  },
+  {
+    "2020": 1856882402,
+    "": 240,
+    "Country Name": "South Asia (IDA & IBRD)",
+    "Value": 35180784382.024994
+  },
+  {
+    "2020": 1136046775,
+    "": 241,
+    "Country Name": "Sub-Saharan Africa (IDA & IBRD countries)",
+    "Value": 38511257745.87295
+  },
+  {
+    "2020": 1399491,
+    "": 242,
+    "Country Name": "Trinidad and Tobago",
+    "Value": "17545920.082Fgi"
+  },
+  {
+    "2020": 11818618,
+    "": 243,
+    "Country Name": "Tunisia",
+    "Value": 199851087.16899997
+  },
+  {
+    "2020": 84339067,
+    "": 244,
+    "Country Name": "Turkey",
+    "Value": 1316686057.674
+  },
+  {
+    "2020": 11792,
+    "": 245,
+    "Country Name": "Tuvalu",
+    "Value": 306592
+  },
+  {
+    "2020": 59734213,
+    "": 246,
+    "Country Name": "Tanzania",
+    "Value": 2107686430.896
+  },
+  {
+    "2020": 45741000,
+    "": 247,
+    "Country Name": "Uganda",
+    "Value": 1654664353.299
+  },
+  {
+    "2020": 44134693,
+    "": 248,
+    "Country Name": "Ukraine",
+    "Value": 359528244.3
+  },
+  {
+    "2020": 2522452391,
+    "": 249,
+    "Country Name": "Upper middle income",
+    "Value": 31707073282.624393
+  },
+  {
+    "2020": 3473727,
+    "": 250,
+    "Country Name": "Uruguay",
+    "Value": 47564183.94
+  },
+  {
+    "2020": 329484123,
+    "": 251,
+    "Country Name": "United States",
+    "Value": 3742961464.2000003
+  },
+  {
+    "2020": 34232050,
+    "": 252,
+    "Country Name": "Uzbekistan",
+    "Value": 816002505
+  },
+  {
+    "2020": 110947,
+    "": 253,
+    "Country Name": "St. Vincent and the Grenadines",
+    "Value": 1557923.591
+  },
+  {
+    "2020": 28435943,
+    "": 254,
+    "Country Name": "Venezuela, RB",
+    "Value": 500909052.214
+  },
+  {
+    "2020": 30237,
+    "": 255,
+    "Country Name": "British Virgin Islands",
+    "Value": 335630.7
+  },
+  {
+    "2020": 106290,
+    "": 256,
+    "Country Name": "Virgin Islands (U.S.)",
+    "Value": 1312028.7000000002
+  },
+  {
+    "2020": 97338583,
+    "": 257,
+    "Country Name": "Vietnam",
+    "Value": 1587187525.032
+  },
+  {
+    "2020": 307150,
+    "": 258,
+    "Country Name": "Vanuatu",
+    "Value": 8749057.35
+  },
+  {
+    "2020": 7761620146,
+    "": 259,
+    "Country Name": "World",
+    "Value": 137436439344.08237
+  },
+  {
+    "2020": 198410,
+    "": 260,
+    "Country Name": "Samoa",
+    "Value": 4749941.300000001
+  },
+  {
+    "2020": 1775378,
+    "": 261,
+    "Country Name": "Kosovo",
+    "Value": 27906496.8
+  },
+  {
+    "2020": 29825968,
+    "": 262,
+    "Country Name": "Yemen, Rep.",
+    "Value": 871154095.906
+  },
+  {
+    "2020": 59308690,
+    "": 263,
+    "Country Name": "South Africa",
+    "Value": 1178719356.443
+  },
+  {
+    "2020": 18383956,
+    "": 264,
+    "Country Name": "Zambia",
+    "Value": 638996352.3840001
+  },
+  {
+    "2020": 14862927,
+    "": 265,
+    "Country Name": "Zimbabwe",
+    "Value": 435658885.331
+  }
+]

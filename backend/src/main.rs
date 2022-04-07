@@ -1,5 +1,5 @@
 mod api;
-
+use crate::api::reborn::*;
 #[macro_use] 
 extern crate rocket;
 
@@ -10,5 +10,5 @@ fn hello() -> &'static str {
 
 #[launch]
 async fn rocket() -> _ {
-    rocket::build().mount("/api", routes![hello])
+    rocket::build().mount("/api", routes![hello,get_sex])
 }

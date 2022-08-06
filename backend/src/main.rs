@@ -10,5 +10,5 @@ fn hello() -> &'static str {
 
 #[launch]
 async fn rocket() -> _ {
-    rocket::build().mount("/api", routes![hello,get_sex])
+    rocket::build().mount("/api", routes![hello,get_sex,reborn])
 }

@@ -6,17 +6,17 @@ use lazy_static::lazy_static;
 
 #[derive(Deserialize, Debug)]
 struct CountryData {
-    #[serde(rename = "Country Name")]
+    #[serde(rename = "Country_Name")]
     country_name: String,
     //#[serde(rename = "2020")]
     //population: f64,
-    #[serde(rename = "Value")]
+    #[serde(rename = "Weight_Value")]
     weight_value: f64,
 }
 
 lazy_static! {
     static ref COUNTRIES: Vec<CountryData> = {
-        let mut file = File::open(r"Z:\data.json").unwrap();
+        let mut file = File::open("data.json").unwrap();
         let mut json = String::new();
         file.read_to_string(&mut json).unwrap();
         
@@ -28,15 +28,15 @@ lazy_static! {
         for i in 1..sums.len() {
             sums[i] = sums[i - 1] + COUNTRIES[i - 1].weight_value;
         }
-
+        
         sums
     };
 }
 
 #[get("/sex")]
 pub fn get_sex()-> &'static str {
-    let mut rng = rand::thread_rng().gen_range(0..10);
-    let result = if let 0=rng%2{"0"} else{"1"};
+    let rng = rand::thread_rng().gen_range(0..10);
+    let result = if let 0 = rng % 2{"0"} else{"1"};
     return result;
 }
 

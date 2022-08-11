@@ -660,12 +660,6 @@
     "Weight_Value": "24109074886.864"
   },
   {
-    "ID": "110",
-    "Country_Name": "Not classified",
-    "Population": "",
-    "Weight_Value": ""
-  },
-  {
     "ID": "111",
     "Country_Name": "Ireland",
     "Population": "4994724.0",
@@ -1084,12 +1078,6 @@
     "Country_Name": "New Zealand",
     "Population": "5084300.0",
     "Weight_Value": "59552428.00000001"
-  },
-  {
-    "ID": "181",
-    "Country_Name": "OECD members",
-    "Population": "1370858752.0",
-    "Weight_Value": "15128230045.225986"
   },
   {
     "ID": "182",
@@ -1552,12 +1540,6 @@
     "Country_Name": "Vanuatu",
     "Population": "307150.0",
     "Weight_Value": "8749057.35"
-  },
-  {
-    "ID": "259",
-    "Country_Name": "World",
-    "Population": "7761620146.0",
-    "Weight_Value": "137436439344.08237"
   },
   {
     "ID": "260",

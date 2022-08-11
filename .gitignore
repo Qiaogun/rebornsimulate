@@ -1,2 +1,5 @@
 backend/target/
 backend/target/debug/
+backend/target/.rustc_info.json
+backend/target/rls/.rustc_info.json
+backend/target/rls/.rustc_info.json

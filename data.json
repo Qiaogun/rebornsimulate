@@ -1,0 +1,1087 @@
+[
+    {
+        "Country_Name": "Aruba",
+        "Population": 106766.0,
+        "Weight_Value": 1249780.3600000001
+    },
+    {
+        "Country_Name": "Afghanistan",
+        "Population": 38928341.0,
+        "Weight_Value": 1209803956.114000082
+    },
+    {
+        "Country_Name": "Angola",
+        "Population": 32866268.0,
+        "Weight_Value": 1280395429.3680000305
+    },
+    {
+        "Country_Name": "Albania",
+        "Population": 2837743.0,
+        "Weight_Value": 33165699.4200000018
+    },
+    {
+        "Country_Name": "Andorra",
+        "Population": 77265.0,
+        "Weight_Value": 540022.0
+    },
+    {
+        "Country_Name": "United Arab Emirates",
+        "Population": 9890400.0,
+        "Weight_Value": 99884087.297999993
+    },
+    {
+        "Country_Name": "Argentina",
+        "Population": 45376763.0,
+        "Weight_Value": 756453339.0959999561
+    },
+    {
+        "Country_Name": "Armenia",
+        "Population": 2963234.0,
+        "Weight_Value": 40361156.2880000025
+    },
+    {
+        "Country_Name": "American Samoa",
+        "Population": 55197.0,
+        "Weight_Value": 4074340.0
+    },
+    {
+        "Country_Name": "Antigua and Barbuda",
+        "Population": 97928.0,
+        "Weight_Value": 1467116.3049999999
+    },
+    {
+        "Country_Name": "Australia",
+        "Population": 25687041.0,
+        "Weight_Value": 306925514.5
+    },
+    {
+        "Country_Name": "Austria",
+        "Population": 8917205.0,
+        "Weight_Value": 85247232.0
+    },
+    {
+        "Country_Name": "Azerbaijan",
+        "Population": 10093121.0,
+        "Weight_Value": 141342390.2999999821
+    },
+    {
+        "Country_Name": "Burundi",
+        "Population": 11890781.0,
+        "Weight_Value": 442508953.5289999843
+    },
+    {
+        "Country_Name": "Belgium",
+        "Population": 11555997.0,
+        "Weight_Value": 116038698.0
+    },
+    {
+        "Country_Name": "Benin",
+        "Population": 12123198.0,
+        "Weight_Value": 422847041.4810000658
+    },
+    {
+        "Country_Name": "Burkina Faso",
+        "Population": 20903278.0,
+        "Weight_Value": 761096757.4990000725
+    },
+    {
+        "Country_Name": "Bangladesh",
+        "Population": 164689383.0,
+        "Weight_Value": 2913309019.1640000343
+    },
+    {
+        "Country_Name": "Bulgaria",
+        "Population": 6934015.0,
+        "Weight_Value": 61386696.799999997
+    },
+    {
+        "Country_Name": "Bahrain",
+        "Population": 1701583.0,
+        "Weight_Value": 22355936.0080000013
+    },
+    {
+        "Country_Name": "Bahamas, The",
+        "Population": 393248.0,
+        "Weight_Value": 5406844.6519999998
+    },
+    {
+        "Country_Name": "Bosnia and Herzegovina",
+        "Population": 3280815.0,
+        "Weight_Value": 26203322.1240000017
+    },
+    {
+        "Country_Name": "Belarus",
+        "Population": 9379952.0,
+        "Weight_Value": 87603749.400000006
+    },
+    {
+        "Country_Name": "Belize",
+        "Population": 397621.0,
+        "Weight_Value": 8006099.0100000007
+    },
+    {
+        "Country_Name": "Bermuda",
+        "Population": 63903.0,
+        "Weight_Value": 530477.9
+    },
+    {
+        "Country_Name": "Bolivia",
+        "Population": 11673029.0,
+        "Weight_Value": 247013603.4099999964
+    },
+    {
+        "Country_Name": "Brazil",
+        "Population": 212559409.0,
+        "Weight_Value": 2892011558.8569998741
+    },
+    {
+        "Country_Name": "Barbados",
+        "Population": 287371.0,
+        "Weight_Value": 3048450.0410000002
+    },
+    {
+        "Country_Name": "Brunei Darussalam",
+        "Population": 437483.0,
+        "Weight_Value": 6265026.8640000001
+    },
+    {
+        "Country_Name": "Bhutan",
+        "Population": 771612.0,
+        "Weight_Value": 12981755.1280000005
+    },
+    {
+        "Country_Name": "Botswana",
+        "Population": 2351625.0,
+        "Weight_Value": 55827938.5019999966
+    },
+    {
+        "Country_Name": "Central African Republic",
+        "Population": 4829764.0,
+        "Weight_Value": 166508331.1100000143
+    },
+    {
+        "Country_Name": "Canada",
+        "Population": 38005238.0,
+        "Weight_Value": 372174501.6000000238
+    },
+    {
+        "Country_Name": "Switzerland",
+        "Population": 8636896.0,
+        "Weight_Value": 85752800.0
+    },
+    {
+        "Country_Name": "Chile",
+        "Population": 19116209.0,
+        "Weight_Value": 230968450.5449999869
+    },
+    {
+        "Country_Name": "China",
+        "Population": 1410929362.0,
+        "Weight_Value": 14781322500.0
+    },
+    {
+        "Country_Name": "Cote d'Ivoire",
+        "Population": 26378275.0,
+        "Weight_Value": 912011871.0559999943
+    },
+    {
+        "Country_Name": "Cameroon",
+        "Population": 26545864.0,
+        "Weight_Value": 902853018.8170000315
+    },
+    {
+        "Country_Name": "Congo, Dem. Rep.",
+        "Population": 89561404.0,
+        "Weight_Value": 3527081892.9520001411
+    },
+    {
+        "Country_Name": "Congo, Rep.",
+        "Population": 5518092.0,
+        "Weight_Value": 174312188.0879999995
+    },
+    {
+        "Country_Name": "Colombia",
+        "Population": 50882884.0,
+        "Weight_Value": 737724537.1649999619
+    },
+    {
+        "Country_Name": "Comoros",
+        "Population": 869595.0,
+        "Weight_Value": 26723933.6369999982
+    },
+    {
+        "Country_Name": "Cabo Verde",
+        "Population": 555988.0,
+        "Weight_Value": 10482330.0960000008
+    },
+    {
+        "Country_Name": "Costa Rica",
+        "Population": 5094114.0,
+        "Weight_Value": 69096062.5289999992
+    },
+    {
+        "Country_Name": "Caribbean small states",
+        "Population": 7442291.0,
+        "Weight_Value": 115936025.2678822726
+    },
+    {
+        "Country_Name": "Cuba",
+        "Population": 11326616.0,
+        "Weight_Value": 112904167.6079999954
+    },
+    {
+        "Country_Name": "Curacao",
+        "Population": 155014.0,
+        "Weight_Value": 1590154.1000000001
+    },
+    {
+        "Country_Name": "Cayman Islands",
+        "Population": 65720.0,
+        "Weight_Value": 636490.4
+    },
+    {
+        "Country_Name": "Cyprus",
+        "Population": 1207361.0,
+        "Weight_Value": 12273397.7599999998
+    },
+    {
+        "Country_Name": "Czech Republic",
+        "Population": 10698896.0,
+        "Weight_Value": 112054635.0
+    },
+    {
+        "Country_Name": "Germany",
+        "Population": 83240525.0,
+        "Weight_Value": 781073842.8000000715
+    },
+    {
+        "Country_Name": "Djibouti",
+        "Population": 988002.0,
+        "Weight_Value": 20442749.8859999999
+    },
+    {
+        "Country_Name": "Dominica",
+        "Population": 71991.0,
+        "Weight_Value": 4074340.0
+    },
+    {
+        "Country_Name": "Denmark",
+        "Population": 5831404.0,
+        "Weight_Value": 61051431.0
+    },
+    {
+        "Country_Name": "Dominican Republic",
+        "Population": 10847904.0,
+        "Weight_Value": 206112801.701000005
+    },
+    {
+        "Country_Name": "Algeria",
+        "Population": 43851043.0,
+        "Weight_Value": 1015320172.4819999933
+    },
+    {
+        "Country_Name": "Ecuador",
+        "Population": 17643060.0,
+        "Weight_Value": 338091365.2200000286
+    },
+    {
+        "Country_Name": "Egypt, Arab Rep.",
+        "Population": 102334403.0,
+        "Weight_Value": 2580776657.8080000877
+    },
+    {
+        "Country_Name": "Eritrea",
+        "Population": null,
+        "Weight_Value": 4060209.0
+    },
+    {
+        "Country_Name": "Spain",
+        "Population": 47351567.0,
+        "Weight_Value": 358214759.6000000238
+    },
+    {
+        "Country_Name": "Estonia",
+        "Population": 1331057.0,
+        "Weight_Value": 14065118.8000000007
+    },
+    {
+        "Country_Name": "Ethiopia",
+        "Population": 114963583.0,
+        "Weight_Value": 3574863076.3920001984
+    },
+    {
+        "Country_Name": "Finland",
+        "Population": 5530719.0,
+        "Weight_Value": 45829329.799999997
+    },
+    {
+        "Country_Name": "Fiji",
+        "Population": 896444.0,
+        "Weight_Value": 18648117.0700000003
+    },
+    {
+        "Country_Name": "France",
+        "Population": 67391582.0,
+        "Weight_Value": 753187971.1999999285
+    },
+    {
+        "Country_Name": "Faroe Islands",
+        "Population": 48865.0,
+        "Weight_Value": 642536.4
+    },
+    {
+        "Country_Name": "Micronesia, Fed. Sts.",
+        "Population": 115021.0,
+        "Weight_Value": 2584875.432
+    },
+    {
+        "Country_Name": "Gabon",
+        "Population": 2225728.0,
+        "Weight_Value": 67280395.5039999932
+    },
+    {
+        "Country_Name": "United Kingdom",
+        "Population": 67215293.0,
+        "Weight_Value": 715148698.8999999762
+    },
+    {
+        "Country_Name": "Georgia",
+        "Population": 3714000.0,
+        "Weight_Value": 49106125.200000003
+    },
+    {
+        "Country_Name": "Ghana",
+        "Population": 31072945.0,
+        "Weight_Value": 881874539.1360000372
+    },
+    {
+        "Country_Name": "Gibraltar",
+        "Population": 33691.0,
+        "Weight_Value": 464935.8
+    },
+    {
+        "Country_Name": "Guinea",
+        "Population": 13132792.0,
+        "Weight_Value": 459317862.3900001049
+    },
+    {
+        "Country_Name": "Gambia, The",
+        "Population": 2416664.0,
+        "Weight_Value": 89383829.8079999983
+    },
+    {
+        "Country_Name": "Guinea-Bissau",
+        "Population": 1967998.0,
+        "Weight_Value": 66384970.6029999927
+    },
+    {
+        "Country_Name": "Equatorial Guinea",
+        "Population": 1402985.0,
+        "Weight_Value": 44453157.9060000032
+    },
+    {
+        "Country_Name": "Greece",
+        "Population": 10715549.0,
+        "Weight_Value": 83628339.599999994
+    },
+    {
+        "Country_Name": "Grenada",
+        "Population": 112519.0,
+        "Weight_Value": 1814208.3959999999
+    },
+    {
+        "Country_Name": "Greenland",
+        "Population": 56367.0,
+        "Weight_Value": 848997.5
+    },
+    {
+        "Country_Name": "Guatemala",
+        "Population": 16858333.0,
+        "Weight_Value": 401983469.4599999785
+    },
+    {
+        "Country_Name": "Guam",
+        "Population": 168783.0,
+        "Weight_Value": 2753675.7000000002
+    },
+    {
+        "Country_Name": "Guyana",
+        "Population": 786559.0,
+        "Weight_Value": 15438671.3249999993
+    },
+    {
+        "Country_Name": "Hong Kong SAR, China",
+        "Population": 7481800.0,
+        "Weight_Value": 52551800.0
+    },
+    {
+        "Country_Name": "Honduras",
+        "Population": 9904608.0,
+        "Weight_Value": 207952855.7549999952
+    },
+    {
+        "Country_Name": "Croatia",
+        "Population": 4047200.0,
+        "Weight_Value": 36180751.700000003
+    },
+    {
+        "Country_Name": "Haiti",
+        "Population": 11402533.0,
+        "Weight_Value": 269852109.7609999776
+    },
+    {
+        "Country_Name": "Hungary",
+        "Population": 9749763.0,
+        "Weight_Value": 92825839.5
+    },
+    {
+        "Country_Name": "Indonesia",
+        "Population": 273523621.0,
+        "Weight_Value": 4802521311.9819993973
+    },
+    {
+        "Country_Name": "Isle of Man",
+        "Population": 85032.0,
+        "Weight_Value": 4054140.0
+    },
+    {
+        "Country_Name": "India",
+        "Population": 1380004385.0,
+        "Weight_Value": 24109074886.8639984131
+    },
+    {
+        "Country_Name": "Ireland",
+        "Population": 4994724.0,
+        "Weight_Value": 59705514.0
+    },
+    {
+        "Country_Name": "Iran, Islamic Rep.",
+        "Population": 83992953.0,
+        "Weight_Value": 1527273909.0600001812
+    },
+    {
+        "Country_Name": "Iraq",
+        "Population": 40222503.0,
+        "Weight_Value": 1122530334.6840000153
+    },
+    {
+        "Country_Name": "Iceland",
+        "Population": 366425.0,
+        "Weight_Value": 4434924.9000000004
+    },
+    {
+        "Country_Name": "Israel",
+        "Population": 9216900.0,
+        "Weight_Value": 181985400.0
+    },
+    {
+        "Country_Name": "Italy",
+        "Population": 59554023.0,
+        "Weight_Value": 418103567.0
+    },
+    {
+        "Country_Name": "Jamaica",
+        "Population": 2961161.0,
+        "Weight_Value": 46898242.2390000001
+    },
+    {
+        "Country_Name": "Jordan",
+        "Population": 10203140.0,
+        "Weight_Value": 216954146.4690000117
+    },
+    {
+        "Country_Name": "Japan",
+        "Population": 125836021.0,
+        "Weight_Value": 883854517.0
+    },
+    {
+        "Country_Name": "Kazakhstan",
+        "Population": 18754440.0,
+        "Weight_Value": 402302114.2900000215
+    },
+    {
+        "Country_Name": "Kenya",
+        "Population": 53771300.0,
+        "Weight_Value": 1487738118.1659998894
+    },
+    {
+        "Country_Name": "Kyrgyz Republic",
+        "Population": 6591600.0,
+        "Weight_Value": 173671780.0
+    },
+    {
+        "Country_Name": "Cambodia",
+        "Population": 16718971.0,
+        "Weight_Value": 363033654.8399999738
+    },
+    {
+        "Country_Name": "Kiribati",
+        "Population": 119446.0,
+        "Weight_Value": 3228692.4240000001
+    },
+    {
+        "Country_Name": "St. Kitts and Nevis",
+        "Population": 53192.0,
+        "Weight_Value": 4068280.0
+    },
+    {
+        "Country_Name": "Korea, Rep.",
+        "Population": 51780579.0,
+        "Weight_Value": 305083678.2000000477
+    },
+    {
+        "Country_Name": "Kuwait",
+        "Population": 4270563.0,
+        "Weight_Value": 55747977.3269999996
+    },
+    {
+        "Country_Name": "Lao PDR",
+        "Population": 7275556.0,
+        "Weight_Value": 165736314.3519999981
+    },
+    {
+        "Country_Name": "Lebanon",
+        "Population": 6825442.0,
+        "Weight_Value": 119131655.2929999977
+    },
+    {
+        "Country_Name": "Liberia",
+        "Population": 5057677.0,
+        "Weight_Value": 161387943.9379999936
+    },
+    {
+        "Country_Name": "Libya",
+        "Population": 6871287.0,
+        "Weight_Value": 124027389.900000006
+    },
+    {
+        "Country_Name": "St. Lucia",
+        "Population": 183629.0,
+        "Weight_Value": 2164110.0049999999
+    },
+    {
+        "Country_Name": "Liechtenstein",
+        "Population": 38137.0,
+        "Weight_Value": 349784.0
+    },
+    {
+        "Country_Name": "Sri Lanka",
+        "Population": 21919000.0,
+        "Weight_Value": 338905832.0
+    },
+    {
+        "Country_Name": "Lesotho",
+        "Population": 2142252.0,
+        "Weight_Value": 56138927.8049999997
+    },
+    {
+        "Country_Name": "Lithuania",
+        "Population": 2794700.0,
+        "Weight_Value": 27382542.6000000015
+    },
+    {
+        "Country_Name": "Luxembourg",
+        "Population": 632275.0,
+        "Weight_Value": 6200010.0
+    },
+    {
+        "Country_Name": "Latvia",
+        "Population": 1901548.0,
+        "Weight_Value": 18755455.6000000015
+    },
+    {
+        "Country_Name": "Macao SAR, China",
+        "Population": 649342.0,
+        "Weight_Value": 6977018.7240000004
+    },
+    {
+        "Country_Name": "St. Martin (French part)",
+        "Population": 38659.0,
+        "Weight_Value": 551029.0
+    },
+    {
+        "Country_Name": "Morocco",
+        "Population": 36910558.0,
+        "Weight_Value": 674727671.0
+    },
+    {
+        "Country_Name": "Monaco",
+        "Population": 39244.0,
+        "Weight_Value": 4076360.0
+    },
+    {
+        "Country_Name": "Moldova",
+        "Population": 2620495.0,
+        "Weight_Value": 26463191.8200000003
+    },
+    {
+        "Country_Name": "Madagascar",
+        "Population": 27691019.0,
+        "Weight_Value": 874021268.8480000496
+    },
+    {
+        "Country_Name": "Maldives",
+        "Population": 540542.0,
+        "Weight_Value": 7212519.8880000003
+    },
+    {
+        "Country_Name": "Mexico",
+        "Population": 128932753.0,
+        "Weight_Value": 2206673925.1129999161
+    },
+    {
+        "Country_Name": "Marshall Islands",
+        "Population": 59194.0,
+        "Weight_Value": 4062220.0
+    },
+    {
+        "Country_Name": "North Macedonia",
+        "Population": 2072531.0,
+        "Weight_Value": 22123021.182
+    },
+    {
+        "Country_Name": "Mali",
+        "Population": 20250834.0,
+        "Weight_Value": 806666973.8049999475
+    },
+    {
+        "Country_Name": "Malta",
+        "Population": 525285.0,
+        "Weight_Value": 4334933.2000000002
+    },
+    {
+        "Country_Name": "Myanmar",
+        "Population": 54409794.0,
+        "Weight_Value": 940228206.5340000391
+    },
+    {
+        "Country_Name": "Montenegro",
+        "Population": 621306.0,
+        "Weight_Value": 7259688.7879999997
+    },
+    {
+        "Country_Name": "Mongolia",
+        "Population": 3278292.0,
+        "Weight_Value": 75343102.925999999
+    },
+    {
+        "Country_Name": "Northern Mariana Islands",
+        "Population": 57557.0,
+        "Weight_Value": 4068280.0
+    },
+    {
+        "Country_Name": "Mozambique",
+        "Population": 31255435.0,
+        "Weight_Value": 1128584354.1380000114
+    },
+    {
+        "Country_Name": "Mauritania",
+        "Population": 4649660.0,
+        "Weight_Value": 150533766.8760000169
+    },
+    {
+        "Country_Name": "Mauritius",
+        "Population": 1265740.0,
+        "Weight_Value": 12910252.1999999993
+    },
+    {
+        "Country_Name": "Malawi",
+        "Population": 19129955.0,
+        "Weight_Value": 628347703.7699999809
+    },
+    {
+        "Country_Name": "Malaysia",
+        "Population": 32365998.0,
+        "Weight_Value": 530622095.7120000124
+    },
+    {
+        "Country_Name": "Namibia",
+        "Population": 2540916.0,
+        "Weight_Value": 70225839.6480000019
+    },
+    {
+        "Country_Name": "New Caledonia",
+        "Population": 271960.0,
+        "Weight_Value": 3798200.0
+    },
+    {
+        "Country_Name": "Niger",
+        "Population": 24206636.0,
+        "Weight_Value": 1063831283.003000021
+    },
+    {
+        "Country_Name": "Nigeria",
+        "Population": 206139587.0,
+        "Weight_Value": 7525283077.9379997253
+    },
+    {
+        "Country_Name": "Nicaragua",
+        "Population": 6624554.0,
+        "Weight_Value": 132317343.1449999958
+    },
+    {
+        "Country_Name": "Netherlands",
+        "Population": 17441139.0,
+        "Weight_Value": 168245277.7999999821
+    },
+    {
+        "Country_Name": "Norway",
+        "Population": 5379475.0,
+        "Weight_Value": 54548539.200000003
+    },
+    {
+        "Country_Name": "Nepal",
+        "Population": 29136808.0,
+        "Weight_Value": 560101422.2699999809
+    },
+    {
+        "Country_Name": "Nauru",
+        "Population": 10834.0,
+        "Weight_Value": 346688.0
+    },
+    {
+        "Country_Name": "New Zealand",
+        "Population": 5084300.0,
+        "Weight_Value": 59552428.0000000075
+    },
+    {
+        "Country_Name": "Oman",
+        "Population": 5106622.0,
+        "Weight_Value": 92102026.8959999979
+    },
+    {
+        "Country_Name": "Pakistan",
+        "Population": 220892331.0,
+        "Weight_Value": 6029394990.5970001221
+    },
+    {
+        "Country_Name": "Panama",
+        "Population": 4314768.0,
+        "Weight_Value": 79429660.1999999881
+    },
+    {
+        "Country_Name": "Peru",
+        "Population": 32971846.0,
+        "Weight_Value": 577255763.2719999552
+    },
+    {
+        "Country_Name": "Philippines",
+        "Population": 109581085.0,
+        "Weight_Value": 2180279799.251999855
+    },
+    {
+        "Country_Name": "Palau",
+        "Population": 18092.0,
+        "Weight_Value": 201611.2
+    },
+    {
+        "Country_Name": "Papua New Guinea",
+        "Population": 8947027.0,
+        "Weight_Value": 235138556.3670000136
+    },
+    {
+        "Country_Name": "Poland",
+        "Population": 37950802.0,
+        "Weight_Value": 375858202.5
+    },
+    {
+        "Country_Name": "Puerto Rico",
+        "Population": 3194034.0,
+        "Weight_Value": 20439641.6000000015
+    },
+    {
+        "Country_Name": "Korea, Dem. People's Rep.",
+        "Population": 25778815.0,
+        "Weight_Value": 355424955.9840000272
+    },
+    {
+        "Country_Name": "Portugal",
+        "Population": 10305564.0,
+        "Weight_Value": 86404609.200000003
+    },
+    {
+        "Country_Name": "Paraguay",
+        "Population": 7132530.0,
+        "Weight_Value": 143295001.8990000188
+    },
+    {
+        "Country_Name": "West Bank and Gaza",
+        "Population": 4803269.0,
+        "Weight_Value": 134547932.4019999802
+    },
+    {
+        "Country_Name": "French Polynesia",
+        "Population": 280904.0,
+        "Weight_Value": 4029244.6949999998
+    },
+    {
+        "Country_Name": "Qatar",
+        "Population": 2881060.0,
+        "Weight_Value": 26578986.3350000009
+    },
+    {
+        "Country_Name": "Romania",
+        "Population": 19286123.0,
+        "Weight_Value": 185967820.8000000119
+    },
+    {
+        "Country_Name": "Russian Federation",
+        "Population": 144104080.0,
+        "Weight_Value": 1415181357.8000001907
+    },
+    {
+        "Country_Name": "Rwanda",
+        "Population": 12952209.0,
+        "Weight_Value": 394579185.5619999766
+    },
+    {
+        "Country_Name": "Saudi Arabia",
+        "Population": 34813867.0,
+        "Weight_Value": 592742746.1130000353
+    },
+    {
+        "Country_Name": "Sudan",
+        "Population": 43849269.0,
+        "Weight_Value": 1362574080.7620000839
+    },
+    {
+        "Country_Name": "Senegal",
+        "Population": 16743930.0,
+        "Weight_Value": 553294082.6239999533
+    },
+    {
+        "Country_Name": "Singapore",
+        "Population": 5685807.0,
+        "Weight_Value": 50191407.200000003
+    },
+    {
+        "Country_Name": "Solomon Islands",
+        "Population": 686878.0,
+        "Weight_Value": 21404799.8759999983
+    },
+    {
+        "Country_Name": "Sierra Leone",
+        "Population": 7976985.0,
+        "Weight_Value": 256890432.9530000091
+    },
+    {
+        "Country_Name": "El Salvador",
+        "Population": 6486201.0,
+        "Weight_Value": 116512391.700000003
+    },
+    {
+        "Country_Name": "San Marino",
+        "Population": 33938.0,
+        "Weight_Value": 226888.8
+    },
+    {
+        "Country_Name": "Somalia",
+        "Population": 15893219.0,
+        "Weight_Value": 642193246.0099999905
+    },
+    {
+        "Country_Name": "Serbia",
+        "Population": 6908224.0,
+        "Weight_Value": 64590685.5000000075
+    },
+    {
+        "Country_Name": "South Sudan",
+        "Population": 11193729.0,
+        "Weight_Value": 383335436.4419999719
+    },
+    {
+        "Country_Name": "Sao Tome and Principe",
+        "Population": 219161.0,
+        "Weight_Value": 6699175.2960000001
+    },
+    {
+        "Country_Name": "Suriname",
+        "Population": 586634.0,
+        "Weight_Value": 10636036.0850000009
+    },
+    {
+        "Country_Name": "Slovak Republic",
+        "Population": 5458827.0,
+        "Weight_Value": 57268543.5
+    },
+    {
+        "Country_Name": "Slovenia",
+        "Population": 2100126.0,
+        "Weight_Value": 19421980.5
+    },
+    {
+        "Country_Name": "Sweden",
+        "Population": 10353442.0,
+        "Weight_Value": 114095645.700000003
+    },
+    {
+        "Country_Name": "Eswatini",
+        "Population": 1160164.0,
+        "Weight_Value": 29714830.1730000004
+    },
+    {
+        "Country_Name": "Sint Maarten (Dutch part)",
+        "Population": 40812.0,
+        "Weight_Value": 4074340.0
+    },
+    {
+        "Country_Name": "Seychelles",
+        "Population": 98462.0,
+        "Weight_Value": 1601049.9999999998
+    },
+    {
+        "Country_Name": "Syrian Arab Republic",
+        "Population": 17500657.0,
+        "Weight_Value": 396368465.0400000215
+    },
+    {
+        "Country_Name": "Turks and Caicos Islands",
+        "Population": 38718.0,
+        "Weight_Value": 545923.8
+    },
+    {
+        "Country_Name": "Chad",
+        "Population": 16425859.0,
+        "Weight_Value": 664426838.5299999714
+    },
+    {
+        "Country_Name": "Togo",
+        "Population": 8278737.0,
+        "Weight_Value": 264349715.8129999936
+    },
+    {
+        "Country_Name": "Thailand",
+        "Population": 69799978.0,
+        "Weight_Value": 707952907.6079999208
+    },
+    {
+        "Country_Name": "Tajikistan",
+        "Population": 9537642.0,
+        "Weight_Value": 279984888.8740000129
+    },
+    {
+        "Country_Name": "Turkmenistan",
+        "Population": 6031187.0,
+        "Weight_Value": 137060340.2039999962
+    },
+    {
+        "Country_Name": "Timor-Leste",
+        "Population": 1318442.0,
+        "Weight_Value": 37867726.0799999982
+    },
+    {
+        "Country_Name": "Tonga",
+        "Population": 105697.0,
+        "Weight_Value": 2508972.9700000002
+    },
+    {
+        "Country_Name": "Trinidad and Tobago",
+        "Population": 1399491.0,
+        "Weight_Value": 17545920.0819999985
+    },
+    {
+        "Country_Name": "Tunisia",
+        "Population": 11818618.0,
+        "Weight_Value": 199851087.1689999998
+    },
+    {
+        "Country_Name": "Turkey",
+        "Population": 84339067.0,
+        "Weight_Value": 1316686057.6740000248
+    },
+    {
+        "Country_Name": "Tuvalu",
+        "Population": 11792.0,
+        "Weight_Value": 306592.0
+    },
+    {
+        "Country_Name": "Tanzania",
+        "Population": 59734213.0,
+        "Weight_Value": 2107686430.8959999084
+    },
+    {
+        "Country_Name": "Uganda",
+        "Population": 45741000.0,
+        "Weight_Value": 1654664353.2990000248
+    },
+    {
+        "Country_Name": "Ukraine",
+        "Population": 44134693.0,
+        "Weight_Value": 359528244.3000000119
+    },
+    {
+        "Country_Name": "Uruguay",
+        "Population": 3473727.0,
+        "Weight_Value": 47564183.9399999976
+    },
+    {
+        "Country_Name": "United States",
+        "Population": 329484123.0,
+        "Weight_Value": 3742961464.1999998093
+    },
+    {
+        "Country_Name": "Uzbekistan",
+        "Population": 34232050.0,
+        "Weight_Value": 816002505.0
+    },
+    {
+        "Country_Name": "St. Vincent and the Grenadines",
+        "Population": 110947.0,
+        "Weight_Value": 1557923.591
+    },
+    {
+        "Country_Name": "Venezuela, RB",
+        "Population": 28435943.0,
+        "Weight_Value": 500909052.2139999866
+    },
+    {
+        "Country_Name": "British Virgin Islands",
+        "Population": 30237.0,
+        "Weight_Value": 335630.7
+    },
+    {
+        "Country_Name": "Virgin Islands (U.S.)",
+        "Population": 106290.0,
+        "Weight_Value": 1312028.7000000002
+    },
+    {
+        "Country_Name": "Vietnam",
+        "Population": 97338583.0,
+        "Weight_Value": 1587187525.0320000648
+    },
+    {
+        "Country_Name": "Vanuatu",
+        "Population": 307150.0,
+        "Weight_Value": 8749057.3499999996
+    },
+    {
+        "Country_Name": "Samoa",
+        "Population": 198410.0,
+        "Weight_Value": 4749941.3000000007
+    },
+    {
+        "Country_Name": "Kosovo",
+        "Population": 1775378.0,
+        "Weight_Value": 27906496.8000000007
+    },
+    {
+        "Country_Name": "Yemen, Rep.",
+        "Population": 29825968.0,
+        "Weight_Value": 871154095.9060000181
+    },
+    {
+        "Country_Name": "South Africa",
+        "Population": 59308690.0,
+        "Weight_Value": 1178719356.4430000782
+    },
+    {
+        "Country_Name": "Zambia",
+        "Population": 18383956.0,
+        "Weight_Value": 638996352.3840000629
+    },
+    {
+        "Country_Name": "Zimbabwe",
+        "Population": 14862927.0,
+        "Weight_Value": 435658885.3309999704
+    }
+]
